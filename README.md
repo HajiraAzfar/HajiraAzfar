@@ -1,10 +1,10 @@
 <div align="center">
 
-# 💜 Hajira Azfar
+# Hajira Azfar
 
 ### AI & Machine Learning Enthusiast
 
-*Learning. Building. Growing.*
+**Learning • Building • Growing**
 
 <br>
 
@@ -16,54 +16,72 @@
 
 ---
 
-## 💜 About Me
+## About Me
 
-🌸 AI & Machine Learning Enthusiast
+I'm an **AI & Machine Learning enthusiast** interested in building practical, intelligent solutions to real-world problems.
 
-🌸 Currently learning **Deep Learning, NLP, RAG & Generative AI**
-
-🌸 Building AI-powered applications with **Python, Flutter & Flask**
-
-🌸 Passionate about solving real-world problems using AI
+- Currently exploring **Deep Learning, NLP, RAG, and Generative AI**
+- Building AI-powered applications using **Python, Flutter, and Flask**
+- Interested in **AI products, machine learning, and intelligent systems**
+- Continuously learning and experimenting with new AI technologies
 
 ---
 
-## 🌷 Tech Stack
+## Tech Stack
 
-**Languages**
+### Languages
 
 - Python
 - SQL
 - Dart
 
-**Frameworks & Tools**
+### AI & Machine Learning
 
 - TensorFlow
 - PyTorch
 - Hugging Face
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+
+### Development
+
 - Flask
 - Flutter
-- Git & GitHub
+- Git
+- GitHub
 
 ---
 
-## 🌼 Currently Learning
+## Currently Learning
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
+- Generative AI
 - Computer Vision
 - AI SaaS Development
 
 ---
 
-## 💜 Motto
+## What I Like Building
 
-> *"Turning ideas into intelligent solutions, one project at a time."*
+- AI-powered applications
+- Machine Learning solutions
+- Generative AI tools
+- Intelligent automation
+- Practical projects that solve real-world problems
+
+---
+
+## GitHub Focus
+
+I'm currently focused on strengthening my **AI/ML engineering skills**, building meaningful projects, and exploring how AI can be transformed into useful products.
 
 ---
 
 <div align="center">
 
-### Thanks for visiting! 💜
+### Learning. Building. Improving.
 
 </div>
