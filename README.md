@@ -1,16 +1,17 @@
 <div align="center">
 
-# HAJIRA AZFAR
-
-### AI & MACHINE LEARNING ENTHUSIAST
-
-Building intelligent systems and exploring the intersection of **AI, software engineering, and real-world applications.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hajira+Azfar;AI+%26+Machine+Learning+Enthusiast;Building+with+AI+%7C+Learning+%7C+Experimenting" alt="Typing SVG" />
 
 <br>
 
-[![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python\&logoColor=67E8F9)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge\&logo=pytorch\&logoColor=67E8F9)](https://pytorch.org/)
-[![Generative AI](https://img.shields.io/badge/Generative_AI-111827?style=for-the-badge\&logo=huggingface\&logoColor=67E8F9)](https://huggingface.co/)
+**AI • Machine Learning • Generative AI**
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square\&logo=github\&logoColor=67E8F9)](https://github.com/HajiraAzfar)
+[![Python](https://img.shields.io/badge/Python-111827?style=flat-square\&logo=python\&logoColor=67E8F9)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square\&logo=pytorch\&logoColor=67E8F9)](https://pytorch.org/)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-111827?style=flat-square\&logo=huggingface\&logoColor=67E8F9)](https://huggingface.co/)
 
 </div>
 
@@ -18,113 +19,29 @@ Building intelligent systems and exploring the intersection of **AI, software en
 
 ---
 
-<div align="center">
+### About
 
-## ABOUT ME
+I'm **Hajira**, an AI/ML enthusiast who enjoys turning ideas into working systems.
 
-</div>
+Currently exploring **Generative AI, LLMs, RAG, NLP, Deep Learning, and Computer Vision** — with a focus on building things rather than just studying them.
 
-I'm **Hajira Azfar**, an AI & Machine Learning enthusiast focused on understanding, building, and applying intelligent systems.
-
-I enjoy learning through hands-on projects and exploring how modern AI technologies can be transformed into **useful, practical products**.
-
-My current interests include **Machine Learning, Deep Learning, Generative AI, Large Language Models, NLP, RAG, and Computer Vision**.
+```text
+AI / ML          →      Build      →      Experiment      →      Improve
+```
 
 ---
 
-<div align="center">
+### What I'm Into
 
-## AREAS OF INTEREST
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="180">
-
-**ARTIFICIAL INTELLIGENCE**
-
-Machine Learning
-Deep Learning
-Generative AI
-
-</td>
-
-<td align="center" width="180">
-
-**LANGUAGE & LLMs**
-
-LLMs
-NLP
-RAG
-Conversational AI
-
-</td>
-
-<td align="center" width="180">
-
-**COMPUTER VISION**
-
-Image Processing
-Deep Learning
-Visual Intelligence
-
-</td>
-
-<td align="center" width="180">
-
-**AI PRODUCTS**
-
-AI Applications
-Automation
-Product Development
-
-</td>
-</tr>
-</table>
+`Machine Learning` · `Deep Learning` · `Generative AI` · `LLMs` · `RAG` · `NLP` · `Computer Vision`
 
 ---
 
-<div align="center">
+### Tech
 
-## TECH STACK
+<p align="left">
 
-</div>
-
-### Languages
-
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square\&logo=python\&logoColor=67E8F9)
-![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square\&logo=postgresql\&logoColor=67E8F9)
-![Dart](https://img.shields.io/badge/Dart-111827?style=flat-square\&logo=dart\&logoColor=67E8F9)
-
-</p>
-
-### AI / Machine Learning
-
-<p align="center">
-
-![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square\&logo=pytorch\&logoColor=67E8F9)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat-square\&logo=tensorflow\&logoColor=67E8F9)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-111827?style=flat-square\&logo=huggingface\&logoColor=67E8F9)
-
-</p>
-
-<p align="center">
-
-`Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `LLMs` · `RAG` · `Generative AI`
-
-</p>
-
-### Development
-
-<p align="center">
-
-![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square\&logo=flask\&logoColor=67E8F9)
-![Flutter](https://img.shields.io/badge/Flutter-111827?style=flat-square\&logo=flutter\&logoColor=67E8F9)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square\&logo=git\&logoColor=67E8F9)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square\&logo=github\&logoColor=67E8F9)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,flask,flutter,dart,git,github&theme=dark" />
 
 </p>
 
@@ -132,130 +49,22 @@ Product Development
 
 <div align="center">
 
-## CURRENTLY LEARNING
+### Currently building & learning
 
-</div>
-
-<table align="center">
-<tr>
-<th>Technology</th>
-<th>Focus</th>
-</tr>
-
-<tr>
-<td><strong>Large Language Models</strong></td>
-<td>Understanding LLMs and building applications around them</td>
-</tr>
-
-<tr>
-<td><strong>Generative AI</strong></td>
-<td>Exploring modern generative models and AI workflows</td>
-</tr>
-
-<tr>
-<td><strong>RAG</strong></td>
-<td>Building retrieval-based knowledge systems</td>
-</tr>
-
-<tr>
-<td><strong>Natural Language Processing</strong></td>
-<td>Working with language understanding and text-based AI</td>
-</tr>
-
-<tr>
-<td><strong>Computer Vision</strong></td>
-<td>Exploring image understanding and visual intelligence</td>
-</tr>
-
-<tr>
-<td><strong>AI Product Development</strong></td>
-<td>Turning AI concepts into practical applications</td>
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-## WHAT I LIKE TO BUILD
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center">AI Applications</td>
-<td align="center">Machine Learning Systems</td>
-<td align="center">LLM Applications</td>
-</tr>
-
-<tr>
-<td align="center">RAG Systems</td>
-<td align="center">Computer Vision Projects</td>
-<td align="center">AI Automation</td>
-</tr>
-
-<tr>
-<td align="center">AI Products</td>
-<td align="center">Intelligent Tools</td>
-<td align="center">Practical Solutions</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## HOW I LEARN
-
-</div>
-
-<p align="center">
-
-<strong>Learn → Research → Experiment → Build → Test → Improve</strong>
-
-</p>
-
-I believe in learning by building. Rather than focusing only on theory, I try to understand technologies by **implementing them, experimenting with them, and applying them to real problems**.
-
----
-
-<div align="center">
-
-## MY GOAL
-
-</div>
-
-> **Build the skills to turn AI ideas into reliable, useful products.**
-
-My long-term goal is to become a strong **AI/ML engineer** who can work across the full journey — from understanding a problem and researching possible solutions to building, integrating, and improving an AI-powered system.
-
----
-
-<div align="center">
-
-## GITHUB FOCUS
-
-</div>
-
-This GitHub represents my journey through **AI, Machine Learning, and software development**.
-
-Here I document projects, experiments, implementations, and ideas as I continue developing my technical skills.
+**AI-powered applications · Intelligent systems · AI products**
 
 <br>
 
-**Machine Learning · Deep Learning · Generative AI · NLP · RAG · Computer Vision · AI Products**
+<img src="https://github-readme-stats.vercel.app/api?username=HajiraAzfar&show_icons=true&hide_border=true&bg_color=00000000&title_color=67E8F9&icon_color=67E8F9&text_color=9CA3AF" height="160" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajiraAzfar&layout=compact&hide_border=true&bg_color=00000000&title_color=67E8F9&text_color=9CA3AF" height="160" />
 
-<br>
+<br><br>
 
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HajiraAzfar&hide_border=true&background=00000000&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=9CA3AF&dates=6B7280" />
 
-### LEARN. BUILD. IMPROVE.
+<br><br>
 
-<br>
-
-`AI / ML`  ·  `Generative AI`  ·  `Software Development`
+**LEARN • BUILD • IMPROVE**
 
 </div>
