@@ -25,7 +25,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/mayankm26/mayankm26/master/gray0_ctp_on_line.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C9A961,100:0D0D0D&height=3&width=1000" width="100%"/>
 
 ## About
 
@@ -39,7 +39,7 @@ My interests span **Generative AI, LLMs, RAG, NLP, Deep Learning, and Computer V
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayankm26/mayankm26/master/gray0_ctp_on_line.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C9A961,100:0D0D0D&height=3&width=1000" width="100%"/>
 
 ## Areas of Work
 
@@ -93,7 +93,7 @@ Exploring deep learning approaches for image understanding and visual intelligen
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/mayankm26/mayankm26/master/gray0_ctp_on_line.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C9A961,100:0D0D0D&height=3&width=1000" width="100%"/>
 
 ## Tech Stack
 
@@ -107,7 +107,7 @@ Exploring deep learning approaches for image understanding and visual intelligen
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayankm26/mayankm26/master/gray0_ctp_on_line.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C9A961,100:0D0D0D&height=3&width=1000" width="100%"/>
 
 ## Selected Work
 
@@ -143,7 +143,7 @@ A computer vision project exploring deep learning architectures for detecting ma
 
 </table>
 
-<img src="https://raw.githubusercontent.com/mayankm26/mayankm26/master/gray0_ctp_on_line.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C9A961,100:0D0D0D&height=3&width=1000" width="100%"/>
 
 ## Learning & Building
 
@@ -197,7 +197,7 @@ Improve through practice
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayankm26/mayankm26/master/gray0_ctp_on_line.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C9A961,100:0D0D0D&height=3&width=1000" width="100%"/>
 
 ## GitHub Overview
 
@@ -213,7 +213,7 @@ Improve through practice
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayankm26/mayankm26/master/gray0_ctp_on_line.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C9A961,100:0D0D0D&height=3&width=1000" width="100%"/>
 
 ## Contribution Activity
 
@@ -223,7 +223,7 @@ Improve through practice
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayankm26/mayankm26/master/gray0_ctp_on_line.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C9A961,100:0D0D0D&height=3&width=1000" width="100%"/>
 
 ## Current Focus
 
@@ -246,7 +246,7 @@ Improve through practice
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayankm26/mayankm26/master/gray0_ctp_on_line.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:C9A961,100:0D0D0D&height=3&width=1000" width="100%"/>
 
 <div align="center">
 
