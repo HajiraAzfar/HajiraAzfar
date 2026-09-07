@@ -4,57 +4,51 @@
 
 <br>
 
-### AI • Machine Learning • Generative AI
+**AI • Machine Learning • Generative AI**
 
-<br>
+<br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square\&logo=github\&logoColor=67E8F9)](https://github.com/HajiraAzfar)
-[![Python](https://img.shields.io/badge/Python-111827?style=flat-square\&logo=python\&logoColor=67E8F9)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square\&logo=pytorch\&logoColor=67E8F9)](https://pytorch.org/)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-111827?style=flat-square\&logo=huggingface\&logoColor=67E8F9)](https://huggingface.co/)
+<a href="https://github.com/HajiraAzfar">
+<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=67E8F9"/>
+</a>
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=67E8F9"/>
+</a>
+<a href="https://pytorch.org/">
+<img src="https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=67E8F9"/>
+</a>
+<a href="https://huggingface.co/">
+<img src="https://img.shields.io/badge/HuggingFace-111827?style=flat-square&logo=huggingface&logoColor=67E8F9"/>
+</a>
 
 </div>
 
 ---
 
-## `01` — About Me
+## About
 
-I'm **Hajira**, an AI/ML enthusiast who enjoys turning ideas into working systems.
+I'm **Hajira**, an AI/ML enthusiast interested in understanding how intelligent systems work — and, more importantly, **building them**.
 
-I'm currently exploring **Generative AI, LLMs, RAG, NLP, Deep Learning, and Computer Vision** — with a focus on building practical things rather than just studying them.
+Currently exploring **Generative AI, LLMs, RAG, NLP, Deep Learning, and Computer Vision**, while turning concepts into practical projects and experiments.
 
 ```text
-        THINK
-          ↓
-        BUILD
-          ↓
-     EXPERIMENT
-          ↓
-       IMPROVE
-          ↺
+learn  →  experiment  →  build  →  break  →  improve
 ```
 
 ---
 
-## `02` — What I'm Exploring
+## Focus
 
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│   Machine Learning       ████████████░░░             │
-│   Deep Learning          ██████████░░░░░             │
-│   Generative AI          ███████████░░░░             │
-│   LLMs                   ██████████░░░░░             │
-│   RAG                    █████████░░░░░░             │
-│   NLP                    █████████░░░░░░             │
-│   Computer Vision        ███████████░░░             │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
+<div align="center">
+
+`Machine Learning` · `Deep Learning` · `Generative AI`
+`LLMs` · `RAG` · `NLP` · `Computer Vision`
+
+</div>
 
 ---
 
-## `03` — Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -64,116 +58,68 @@ I'm currently exploring **Generative AI, LLMs, RAG, NLP, Deep Learning, and Comp
 
 ---
 
-# 🍭 Contribution Quest
+## What I'm Building
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   AI APPLICATIONS                                   │
+│   └─ Turning ideas into useful products             │
+│                                                     │
+│   INTELLIGENT SYSTEMS                               │
+│   └─ Exploring LLMs, RAG & AI workflows             │
+│                                                     │
+│   COMPUTER VISION                                   │
+│   └─ Deep learning & visual understanding           │
+│                                                     │
+│   CONTINUOUS LEARNING                               │
+│   └─ Experimenting with new models & techniques     │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-### `LEVEL 01` — CODE CANDY CRUSH
+<img src="https://ghchart.rshah.org/67E8F9/HajiraAzfar" alt="GitHub contribution graph" />
 
-**Match commits. Complete streaks. Unlock levels.**
+<br><br>
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                  🍬  CODE CANDY  🍬                  ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║     🍓  🟦  🍬  🟪  🟩  🍓  🟦  🍬  🟪              ║
-║     🟩  🍬  🟦  🍓  🟪  🟩  🍬  🟦  🍓              ║
-║     🟪  🟩  🍓  🍬  🟦  🟪  🟩  🍓  🍬              ║
-║     🟦  🍓  🟩  🟪  🍬  🟦  🍓  🟩  🟪              ║
-║                                                      ║
-╠══════════════════════════════════════════════════════╣
-║  🎯 DAILY QUEST     →  Make something                ║
-║  ⚡ COMBO           →  Keep learning                 ║
-║  💎 SPECIAL CANDY   →  Build something useful        ║
-╚══════════════════════════════════════════════════════╝
-```
+<img src="https://github-readme-stats.vercel.app/api?username=HajiraAzfar&show_icons=true&hide_border=true&bg_color=00000000&title_color=67E8F9&icon_color=67E8F9&text_color=9CA3AF&rank_icon=github" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajiraAzfar&layout=compact&hide_border=true&bg_color=00000000&title_color=67E8F9&text_color=9CA3AF" height="160"/>
 
 <br>
 
-### 🍬 My GitHub Candy Board
-
-<img src="https://ghchart.rshah.org/67E8F9/HajiraAzfar" alt="Hajira's GitHub contributions" />
-
-<br>
-
-`░` No activity    `▒` Small combo    `▓` Big combo    `█` Mega combo
-
-<br>
-
-### 🏆 CURRENT STATS
-
-<img src="https://github-readme-stats.vercel.app/api?username=HajiraAzfar&show_icons=true&hide_border=true&bg_color=00000000&title_color=67E8F9&icon_color=67E8F9&text_color=9CA3AF&rank_icon=github" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajiraAzfar&layout=compact&hide_border=true&bg_color=00000000&title_color=67E8F9&text_color=9CA3AF" height="160" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HajiraAzfar&hide_border=true&background=00000000&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=9CA3AF&dates=6B7280" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HajiraAzfar&hide_border=true&background=00000000&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=9CA3AF&dates=6B7280"/>
 
 </div>
 
 ---
 
-## `04` — Currently
+## Current Direction
 
-<div align="center">
+> **Build things that make AI useful.**
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│       🔬  LEARN                              │
-│       ──────────                             │
-│       Explore AI & ML                        │
-│                                              │
-│       🛠️  BUILD                              │
-│       ──────────                             │
-│       Turn ideas into systems                │
-│                                              │
-│       🧪  EXPERIMENT                         │
-│       ─────────────                          │
-│       Try. Break. Understand.                │
-│                                              │
-│       🚀  IMPROVE                            │
-│       ───────────                            │
-│       Build better than yesterday            │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
+I'm currently focused on:
 
-### AI-powered applications · Intelligent systems · AI products
-
-</div>
-
----
-
-## `05` — Projects
-
-<div align="center">
-
-| Project                 | Focus                                 |
-| :---------------------- | :------------------------------------ |
-| 🧠 **AI Systems**       | LLMs · RAG · Intelligent Applications |
-| 👁️ **Computer Vision** | Deep Learning · Image Understanding   |
-| 📊 **Data Systems**     | Analytics · APIs · Data Engineering   |
-| 📱 **AI Applications**  | Flutter · AI-powered products         |
-
-</div>
+* Exploring modern **LLM applications**
+* Building with **RAG and intelligent workflows**
+* Strengthening my **Deep Learning & NLP** foundations
+* Experimenting with **AI-powered products**
+* Learning by building, testing, and iterating
 
 ---
 
 <div align="center">
 
-### `GAME OVER?`
-
-**Not yet.**
-
-```text
-LEARN  •  BUILD  •  EXPERIMENT  •  IMPROVE
-```
+### `LEARN • BUILD • EXPERIMENT • IMPROVE`
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=HajiraAzfar&style=flat-square&color=67E8F9&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=HajiraAzfar&style=flat-square&color=67E8F9&label=PROFILE+VIEWS"/>
 
 </div>
