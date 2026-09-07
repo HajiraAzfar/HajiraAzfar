@@ -29,17 +29,13 @@
 
 ## About
 
-I'm **Hajira**, an AI/ML enthusiast interested in the intersection of **machine learning, intelligent systems, and real-world applications**.
+I'm **Hajira**, an AI/ML enthusiast interested in building intelligent systems and turning machine learning concepts into practical applications.
 
-My work revolves around learning how models work, experimenting with modern AI techniques, and turning those ideas into systems that people can actually use.
-
-Currently exploring **Generative AI, LLMs, RAG, NLP, Deep Learning, and Computer Vision**.
-
-<br>
+My interests span **Generative AI, LLMs, RAG, NLP, Deep Learning, and Computer Vision**. I enjoy learning by experimenting, building projects, and understanding the engineering behind AI systems.
 
 <div align="center">
 
-`RESEARCH`   →   `EXPERIMENT`   →   `ENGINEER`   →   `ITERATE`
+`RESEARCH`   →   `EXPERIMENT`   →   `BUILD`   →   `ITERATE`
 
 </div>
 
@@ -49,13 +45,14 @@ Currently exploring **Generative AI, LLMs, RAG, NLP, Deep Learning, and Computer
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### Generative AI
 
-Exploring how foundation models can be combined with retrieval, structured workflows, and application logic to build useful AI systems.
+Exploring modern AI applications built around foundation models, retrieval, and intelligent workflows.
 
-**LLMs · RAG · Prompt Engineering · AI Applications**
+`LLMs` · `RAG` · `Prompt Engineering` · `AI Applications`
 
 </td>
 
@@ -63,21 +60,23 @@ Exploring how foundation models can be combined with retrieval, structured workf
 
 ### Machine Learning
 
-Building a deeper understanding of model training, evaluation, and the process of turning data into reliable predictions.
+Learning and experimenting with models, training pipelines, evaluation techniques, and data-driven systems.
 
-**ML · Deep Learning · Model Evaluation**
+`Machine Learning` · `Deep Learning` · `Model Evaluation`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### Language & Reasoning
+### Natural Language Processing
 
-Working with language models and NLP techniques to understand, retrieve, process, and generate meaningful information.
+Working with language models and NLP techniques for understanding, retrieving, and generating information.
 
-**NLP · Embeddings · Transformers · Information Retrieval**
+`NLP` · `Transformers` · `Embeddings` · `Information Retrieval`
 
 </td>
 
@@ -85,17 +84,18 @@ Working with language models and NLP techniques to understand, retrieve, process
 
 ### Computer Vision
 
-Experimenting with deep learning approaches for image understanding and visual intelligence.
+Exploring deep learning approaches for image understanding and visual intelligence.
 
-**CNNs · Transfer Learning · Image Classification**
+`CNNs` · `Transfer Learning` · `Image Classification`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## Engineering Stack
+## Tech Stack
 
 <div align="center">
 
@@ -103,7 +103,7 @@ Experimenting with deep learning approaches for image understanding and visual i
 
 <br><br>
 
-`Python` · `PyTorch` · `TensorFlow` · `Hugging Face` · `Flask` · `Flutter` · `Git`
+`Python` · `PyTorch` · `TensorFlow` · `Hugging Face` · `Flask` · `Flutter` · `Dart` · `Git`
 
 </div>
 
@@ -112,14 +112,18 @@ Experimenting with deep learning approaches for image understanding and visual i
 ## Selected Work
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### Enterprise Retail Analytics Engine
 
-An end-to-end analytics system combining data engineering, transformation pipelines, competitor intelligence, and an API-driven analytics layer.
+An end-to-end analytics platform combining data engineering, transformation pipelines, competitor price intelligence, synthetic data generation, and an API-driven analytics layer.
 
-**Snowflake · dbt · Python · Flask · Data Engineering**
+**Stack**
+
+`Snowflake` `dbt` `Python` `Flask`
 
 </td>
 
@@ -129,44 +133,87 @@ An end-to-end analytics system combining data engineering, transformation pipeli
 
 A computer vision project exploring deep learning architectures for detecting manipulated media.
 
-**MobileNetV2 · EfficientNet-B0 · Computer Vision · Deep Learning**
+**Models**
+
+`MobileNetV2` `EfficientNet-B0`
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-## Contribution Graph
+## Learning & Building
 
 <div align="center">
 
-### Building in public, one commit at a time.
+<table>
+
+<tr>
+<td align="center" width="25%">
+
+**01**
+
+### Explore
+
+New models, frameworks & ideas
+
+</td>
+
+<td align="center" width="25%">
+
+**02**
+
+### Experiment
+
+Test concepts through projects
+
+</td>
+
+<td align="center" width="25%">
+
+**03**
+
+### Engineer
+
+Turn experiments into systems
+
+</td>
+
+<td align="center" width="25%">
+
+**04**
+
+### Iterate
+
+Improve through practice
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+### A record of learning, building, and shipping.
 
 <br>
 
-<img src="https://ghchart.rshah.org/8B7DB8/HajiraAzfar" alt="Hajira Azfar GitHub contributions" />
+<img src="./assets/contribution-pulse.gif"
+  width="850"
+  alt="Animated contribution activity"/>
 
 <br><br>
 
-<table>
-<tr>
-<td align="center">
-<strong>LEARN</strong><br>
-Understanding the fundamentals
-</td>
-<td align="center">→</td>
-<td align="center">
-<strong>BUILD</strong><br>
-Turning concepts into systems
-</td>
-<td align="center">→</td>
-<td align="center">
-<strong>ITERATE</strong><br>
-Improving through experimentation
-</td>
-</tr>
-</table>
+`CONSISTENCY`   ·   `EXPERIMENTATION`   ·   `PROGRESS`
 
 </div>
 
@@ -188,18 +235,20 @@ Improving through experimentation
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">01<br><strong>LLM Applications</strong></td>
-<td align="center">02<br><strong>RAG Systems</strong></td>
-<td align="center">03<br><strong>AI Products</strong></td>
-<td align="center">04<br><strong>Deep Learning</strong></td>
-</tr>
-</table>
+|      | Focus                              |
+| :--: | :--------------------------------- |
+| `01` | **LLM Applications**               |
+| `02` | **Retrieval-Augmented Generation** |
+| `03` | **AI Product Development**         |
+| `04` | **Deep Learning & NLP**            |
+
+</div>
 
 <br>
 
-**Learning deeply. Building deliberately. Improving continuously.**
+<div align="center">
+
+> **Build useful things. Understand how they work. Keep improving.**
 
 </div>
 
